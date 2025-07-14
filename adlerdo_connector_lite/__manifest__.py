@@ -15,7 +15,7 @@
     'depends': ['base'],
     'images' : ['static/description/banner.png'],
 
-    'license': '	LGPL-3',
+    'license': 'LGPL-3',
     'application': True,
     'installable': True,
 }
