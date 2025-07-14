@@ -6,7 +6,7 @@
 
     'description': """
 
-A Central Solution for Amazon, eBay, Kaufland & More
+A Central Solution for Amazon, eBay, Kaufland & More.
 
 With the **AdlaDoo Middleware**, you manage your product, order, and inventory data across all marketplaces – reliably, automatically, and fully under your control.
 
