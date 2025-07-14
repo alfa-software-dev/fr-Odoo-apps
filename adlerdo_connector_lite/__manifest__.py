@@ -40,7 +40,7 @@ AdlerDo Connector Lite is a lightweight reporting module designed for visibility
     'depends': ['base'],
     'images' : ['static/description/banner.png'],
 
-    'license': 'LGPL-3',
+    'license': 'Proprietary',
     'application': True,
     'installable': True,
 }
