@@ -31,7 +31,7 @@ Ideal for online retailers, wholesalers, and ERP-based businesses that want to g
     'depends': ['base'],
     'images' : ['static/description/banner.png'],
 
-    'license': 'LGPL-3',
+    'license': 'Other proprietary',
     'application': True,
     'installable': True,
 }
