@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "AdlaDoo Connector Lite",
+    'name': "AdlerDo – Multichannel E-Commerce & EDI Middleware for Odoo",
 
     'summary': "marketplace reporting & lead generation tool for Odoo",
 
