@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Amazon, eBay, Kaufland, Shopify, DB Schenker, OTTO, EDi, and More",
+    'name': "Amazon, eBay, Kaufland, Shopify, DB Schenker, OTTO, EDi, PrestaShop , MediaMarkt, and More",
 
     'summary': "marketplace reporting & lead generation tool for Odoo",
 
