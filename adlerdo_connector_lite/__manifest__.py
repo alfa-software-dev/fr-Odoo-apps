@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "AdlerDo – Multichannel E-Commerce & EDI Middleware for Odoo",
+    'name': "Amazon, eBay, Kaufland, Shopify, DB Schenker, OTTO, EDi, PrestaShop , MediaMarkt, and More",
 
     'summary': "marketplace reporting & lead generation tool for Odoo",
 
