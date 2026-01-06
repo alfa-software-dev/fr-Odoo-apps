@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+{
+    'name': "AdlerDo - Bol.com & Odoo Integration Connector",
+    'summary': "Seamlessly connect your Bol.com seller account with Odoo. Sync products, orders, shipments & inventory in real-time.",
+    'description': "Bol.com integration connector for Odoo - sync products, orders, shipments, inventory, and returns between Bol.com and Odoo ERP.",
+    'author': "TecSee GmbH",
+    'website': "https://www.tecsee.de",
+    'category': 'Sales',
+    'version': '0.1',
+    'depends': ['base'],
+    'images': ['static/description/banner.png'],
+    'license': 'LGPL-3',
+    'application': True,
+    'installable': True,
+}
