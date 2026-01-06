@@ -6,7 +6,7 @@
     'author': "TecSee GmbH",
     'website': "https://www.tecsee.de",
     'category': 'Sales',
-    'version': '0.1',
+    'version': '19.0.0.1',
     'depends': ['base'],
     'images': ['static/description/banner.png'],
     'license': 'LGPL-3',
